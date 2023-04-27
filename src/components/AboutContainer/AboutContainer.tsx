@@ -13,10 +13,10 @@ const AboutContainer = () => {
   return (
     <section className="about-container">
       <h2>Sobre</h2>
+      <p>Sou muito focado e determinado em tudo o que faço.</p>
       <p>
-        Sou muito focado e determinado em tudo o que faço. Busco inovação em meu
-        trabalho e isso me motiva a alcançar metas e objetivos para aprimorar
-        minhas habilidades e conhecimentos.
+        Busco inovação em meu trabalho e isso me motiva a alcançar metas e
+        objetivos para aprimorar minhas habilidades e conhecimentos.
       </p>
       <p>
         Se você procura um desenvolvedor comprometido com a qualidade e a

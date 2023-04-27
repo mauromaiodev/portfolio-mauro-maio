@@ -9,8 +9,11 @@ const ProjectsContainer = () => {
       <p>
         Tenho experiência em desenvolvimento e manutenção de sistemas web,
         trabalhei em projetos de diferentes segmentos, como saúde, educação e
-        marketing. Atualmente, utilizo React, Next.js e Context API, para criar
-        projetos escaláveis.
+        marketing.
+      </p>
+      <p>
+        Atualmente, utilizo React, Next.js e Context API, para criar projetos
+        escaláveis.
       </p>
       <Carousel />
 
